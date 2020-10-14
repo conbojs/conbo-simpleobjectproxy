@@ -1,0 +1,37 @@
+{
+  "name": "conbo-simpleobjectproxy",
+  "version": "1.0.0",
+  "description": "Bindable object proxy for ConboJS for browsers that don't support ES6 Proxy",
+  "main": "lib/conbo-simpleobjectproxy.js",
+  "files": [
+    "lib",
+    "typings"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conbojs/conbo-simpleobjectproxy.git"
+  },
+  "keywords": [
+    "conbo",
+    "object",
+    "proxy",
+    "bindable",
+    "observable",
+    "es6",
+    "es2015",
+    "typescript"
+  ],
+  "types": "./lib/conbo-simpleobjectproxy.d.ts",
+  "author": "Mesmotronic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conbojs/conbo-simpleobjectproxy/issues"
+  },
+  "homepage": "https://github.com/conbojs/conbo-simpleobjectproxy#readme",
+  "dependencies": {
+    "conbo": "^4.3.32"
+  }
+}
