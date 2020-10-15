@@ -1,6 +1,6 @@
 {
   "name": "conbo-simpleobjectproxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bindable object proxy for ConboJS for browsers that don't support ES6 Proxy",
   "main": "lib/conbo-simpleobjectproxy.js",
   "files": [
